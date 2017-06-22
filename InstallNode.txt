@@ -1,11 +1,13 @@
 
 # Node  Modules 
 node simplerect
-node solve-1
-node solve-2
-npm install yargs --save
-node solve-3 --l=3 --b=5
 node server-1
 node server-2
-postman
-arc
+node solve-2
+node solve-1
+npm install yargs --save
+node solve-3
+https://nodejs.org 
+node -v     
+npm -v
+node simplerect
