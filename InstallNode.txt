@@ -11,3 +11,9 @@ https://nodejs.org
 node -v     
 npm -v
 node simplerect
+morgan ,bodyparser middle ware 
+express Node modlule 
+npm install morgan --save
+npm install express --save
+npm install body-parser --save
+ 
