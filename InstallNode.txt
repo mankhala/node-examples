@@ -16,4 +16,5 @@ express Node modlule
 npm install morgan --save
 npm install express --save
 npm install body-parser --save
+npm install express-generator -g
  
