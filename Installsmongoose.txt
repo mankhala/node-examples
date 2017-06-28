@@ -1,0 +1,21 @@
+
+
+
+http://www.mongodb.org
+ mongod --dbpath=data
+ mongo
+npm install mongoose --save
+npm install assert --save
+node server-1
+node server-2
+node server-3
+
+
+
+
+
+
+
+
+
+

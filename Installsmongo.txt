@@ -1,5 +1,7 @@
 
 
+
+
 http://www.mongodb.org
  mongod --dbpath=data
  mongo
@@ -12,10 +14,8 @@ http://www.mongodb.org
 
 npm install mongodb --save
 npm install assert --save
-
-
-
-
+node server
+node simpleserver
 
 
 
